@@ -28,6 +28,67 @@
   color: #61dafb;
 }
 
+.panel-header{
+  font-size:25pt;
+  font-family:cambria;
+   font-style: italic;
+}
+
+.panel-body {
+
+  background-color:#D7F4F4;
+  vertical-align:middle;
+  padding-top:10px;
+
+}
+
+.panel2{
+
+  margin:10px;
+  border-style: solid;
+  border-width: medium;
+  border-color: black;
+  background-color:#C2C6C6 
+
+}
+
+textarea{
+
+  padding:10px;
+  margin-top:10px;
+}
+
+img {
+  padding-top:5px;
+  width :210px;
+  height:300px;
+}
+
+.horoscopetitle{
+
+  font-size:20pt;
+  font-family:cambria;
+  font-style: italic;
+  font-weight:bold;
+
+}
+
+.horoscopetitle{
+
+  text-decoration: underline;
+  font-size: 12pt;
+  color:navy;
+
+}
+
+.horoscope{
+
+ 
+  width:500px;
+
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
